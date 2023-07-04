@@ -1,0 +1,2 @@
+rootProject.name = "TestBankMandiriNewsApps"
+include ':app'
